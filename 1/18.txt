@@ -1,0 +1,21 @@
+Daily Checkins
+
+1/18/2020
+Finished 1/7 chapters in Introductory Data Analysis course by Yandex 
+
+Learned
+Python Error types:
+ EOL = End of line, means that a string is missing a closing mark
+ EOF = End of file, means that a function call was never completed 
+Name Error = Something is probably spelled wrong
+Syntax Error = Something is probably  written wrong
+English and Chinese are spoken by roughly the same amount of people in the world, 
+But websites written in English amount to over 50 percent of the internet. 
+
+
+1/19/2020
+FInished 2/7 in Introductory Data Analysis course by Yandex 
+
+Learned
+Alignment of cells using format function 
+Using print within loops with the format function 
